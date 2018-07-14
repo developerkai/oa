@@ -8,4 +8,8 @@ package com.zhss.springboot;
  * @date 2018/7/1417:28
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
+
 }

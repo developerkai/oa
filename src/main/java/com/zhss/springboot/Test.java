@@ -12,7 +12,7 @@ public class Test {
         System.out.println("ss");
         System.out.println("zz1");
         System.out.println("test");
-        System.out.println("zz");
+        System.out.println("mdzz");
 
     }
 

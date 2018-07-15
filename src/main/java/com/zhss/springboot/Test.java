@@ -9,10 +9,7 @@ package com.zhss.springboot;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("ss");
-        System.out.println("zz1");
-        System.out.println("test");
-        System.out.println("mdzz");
+
 
     }
 
